@@ -31,4 +31,8 @@ The website is optimized for desktop, tablet, and mobile screen sizes.
 
 ## Design
 
+## Screenshot
+
+![Service4All Website Screenshot](Screenshot 2026-08-11 165411.png)
+
 The website is based on the Week 1 Figma design provided for the Faran Digital Academy task.
