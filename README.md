@@ -25,6 +25,10 @@ This project was developed using a Figma design and converted into a responsive 
 - Responsive footer
 - Mobile and desktop layouts
 
+## Responsive Design
+
+The website is optimized for desktop, tablet, and mobile screen sizes.
+
 ## Design
 
 The website is based on the Week 1 Figma design provided for the Faran Digital Academy task.
