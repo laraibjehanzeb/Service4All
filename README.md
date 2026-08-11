@@ -6,6 +6,9 @@ A responsive business website created as part of the Faran Digital Academy Week 
 
 Service4All is a modern digital solutions website designed to help businesses grow through web design, UI/UX design, mobile optimization, and SEO optimization.
 
+## Development
+
+This project was developed using a Figma design and converted into a responsive HTML5 and Tailwind CSS website.
 ## Technologies Used
 
 - HTML5
